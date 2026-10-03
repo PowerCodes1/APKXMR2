@@ -1,0 +1,6 @@
+{
+  "name": "Monero Liquid Pro",
+  "description": "Monero and HashVault miner telemetry dashboard with live hashrate and liquid glass UI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
